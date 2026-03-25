@@ -16,7 +16,7 @@ spec:
         app: solar-system
     spec:
       containers:
-      - image: ccconnected/solar:v6
+      - image: ccconnected/solar:v9
         name: solar-system
         imagePullPolicy: Always
         ports: 
